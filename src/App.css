@@ -1,0 +1,11 @@
+*{
+    margin : 0;
+}
+
+link{
+    text-decoration: none;
+}
+
+body{
+    background: linear-gradient(to right, #010d18, #030e1f, #080f25, #100f2b, #190d2e);
+}
